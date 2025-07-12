@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithun-k-r" alt="mithun-k-r" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://mithun-k-r-38e7b.firebaseapp.com/](https://mithun-k-r-38e7b.firebaseapp.com/)
+- 👨‍💻 All of my projects are available at [https://bit.ly/40cKPbU](https://bit.ly/40cKPbU)
 
 - 📫 Email: **mithunkrtech@gmail.com**
 
